@@ -1,0 +1,32 @@
+{
+  "name": "clean-harvest",
+  "version": "1.0.0",
+  "description": "Remove all Harvest APP data",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "cover": "istanbul cover --report html ./node_modules/mocha/bin/_mocha -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaaqoub/clean-harvest.git"
+  },
+  "keywords": [
+    "harvest",
+    "api",
+    "invoice",
+    "estimate",
+    "clients",
+    "businesses",
+    "time tracking",
+    "remove",
+    "clean",
+    "data"
+  ],
+  "author": "Yaaqoub Semlali <semlali.yaaqoub@gmail.com> (http://www.yaaqoubsemlali.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yaaqoub/clean-harvest/issues"
+  },
+  "homepage": "https://github.com/Yaaqoub/clean-harvest#readme"
+}
