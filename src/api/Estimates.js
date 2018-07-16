@@ -1,5 +1,4 @@
-let base = require('../mixins/Base.js'),
-    pick = require('lodash/pick.js');
+let base = require('../mixins/Base.js');
 
 function Estimates(harvest) {
     this.harvest = harvest.estimates;
