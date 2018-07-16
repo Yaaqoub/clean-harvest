@@ -16,7 +16,7 @@ node_modules
 .env
 
 #Test files
-test/me.js
+tests/me.js
 
 #Coverage things
 coverage/

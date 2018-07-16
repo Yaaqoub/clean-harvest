@@ -28,5 +28,10 @@
   "bugs": {
     "url": "https://github.com/Yaaqoub/clean-harvest/issues"
   },
-  "homepage": "https://github.com/Yaaqoub/clean-harvest#readme"
+  "homepage": "https://github.com/Yaaqoub/clean-harvest#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "harvest-v2": "^1.1.5",
+    "lodash": "^4.17.10"
+  }
 }
